@@ -130,7 +130,7 @@ export default function TabNavigation() {
                 top: SIZES.base,
               }}
             >
-              <Ionicons
+              <Octicons
                 name="person"
                 size={24}
                 style={{ color: focused ? COLORS.primary : COLORS.accent2 }}

@@ -7,7 +7,7 @@ import {
 
 export const COLORS = {
   background: "#031F2B",
-  primary: "#0AA1DD",
+  primary: "#8A2BE2",
   secondary: "#003D55",
   tertiary: "#757575",
   accent: "#343434",
@@ -30,6 +30,7 @@ export const SIZES = {
   // GLOBAL SIZES
   base: hp(1),
   font: 14,
+  profile: hp(7),
   radius: hp(2.5),
   button: hp(5),
   padding: hp(8),
